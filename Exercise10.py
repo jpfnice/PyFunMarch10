@@ -24,7 +24,7 @@ s1.push(56)
 s1.push(45)
 
 print(s1) # (3/10) [20,56,45]
-print(len(s1)) # print(s1.__len__())
+print(len(s1)) # print(s1.__len__()) 3
 
 top=s1.pop()
 print(top) # 45
